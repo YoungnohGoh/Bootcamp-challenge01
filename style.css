@@ -1,0 +1,51 @@
+body{
+  background-color: #33313b;
+}
+
+h1{
+    text-align: center;
+    font-size: 4rem;
+    color: #b0e0a8;
+    font-family: 'Sofia', cursive;
+}
+
+h6{
+  text-align: center;
+  color: #f5e1da;
+}
+p{
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 2rem;
+  margin: 10px auto;
+}
+
+img{
+  width:60%;
+}
+
+.wrapper{
+  text-align: center;
+  height:300px;
+}
+
+.dicee_Left{
+
+  display:inline-block;
+  overflow: hidden;
+  color: #b0e0a8;
+  position: absolute;
+  left:30px;
+  text-align: right;
+}
+
+.dicee_Right{
+  display:inline-block;
+  color: #b0e0a8;
+  position: absolute;
+  right:30px;
+    text-align: left;
+}
+
+.image_R{
+
+}
